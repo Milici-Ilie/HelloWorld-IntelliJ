@@ -286,7 +286,12 @@ jshell>
 
                                                            ❗❗❗ 📬📬[OPERATORS, OPERANDS AND EXPRESSIONS]📬📬 ❗❗❗
 
-    ## ✅V. -
+    ## ✅V. -Logical Operators: Boolean values, && operators
+            -Ternary Operators
+
+[Hello.java]/[]
+
+                                                           ❗❗❗ 🔬🔬[OPERATOR VALUES]🔬🔬 ❗❗❗
 
     ## ✅VI. subtitlu
 
